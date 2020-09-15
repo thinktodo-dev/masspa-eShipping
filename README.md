@@ -24,6 +24,13 @@ class Example extends Component {
   }
 }
 ```
+## Properties
+
+Prop | description 
+--- | --- 
+addressArray | array of address
+changeAddress | action to change address array
+ 
 
 ## License
 
